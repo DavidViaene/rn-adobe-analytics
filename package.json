@@ -1,6 +1,6 @@
 {
   "name": "rn-adobe-analytics",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "React Native bridge for Adobe Analytics",
   "author": "Small Town Heroes & VRT",
   "license": "MIT",

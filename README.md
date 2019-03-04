@@ -4,7 +4,7 @@ React Native bridge for Adobe Analytics.
 
 ## Installation
 ```
-$ npm install react-native-adobe-analytics --save
+$ npm install rn-adobe-analytics --save
 ```
 ### Automatic linking
 ```
